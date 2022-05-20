@@ -1,0 +1,16 @@
+#starterimg{
+  margin-bottom: 1.5rem;
+}
+
+
+.container{
+  margin: 50px;
+  overflow: hidden;
+  padding: 40px 100px;
+  /* display: flex; */
+  border: 1px solid black;
+}
+
+.container2{
+  display: inline-block;
+}
